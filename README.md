@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Connect with me:](https://skillicons.dev/icons?i=postgres,nodejs,react,express,dotnet,git,github,cs,js,html,css,next,nest,mysql,postman,prisma,tailwind,ts,vite,vscode&perline=10)](https://skillicons.dev)
+[![Connect with me:](https://skillicons.dev/icons?i=postgres,nodejs,react,express,dotnet,git,github,cs,js,html,css,next,nest,mysql,postman,prisma,tailwind,ts,vite,flutter&perline=10)](https://skillicons.dev)
 
 <div style="flex">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JuPegro&show_icons=true&theme=github_dark"/>
